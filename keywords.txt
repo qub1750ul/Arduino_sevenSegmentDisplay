@@ -1,0 +1,12 @@
+#######################################
+# Class (KEYWORD1)
+# Methods and Functions (KEYWORD2)
+# Constants (LITERAL1)
+#######################################
+
+sevenSegmentDisplay	KEYWORD1
+off					KEYWORD2
+set					KEYWORD2
+setSegment			KEYWORD2
+COMMON_ANODE		LITERAL1
+COMMON_CATHODE		LITERAL1
